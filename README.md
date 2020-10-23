@@ -7,3 +7,5 @@
 
 
 [Analisis Bases de  Datos](https://github.com/MarleneCalderon/Mineria_de_Datos/upload/master)
+
+[Ejercicios_Base](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Ejercicios%20Base.ipynb)
