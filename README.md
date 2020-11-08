@@ -10,5 +10,4 @@
 
 [Ejercicios_Base](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Ejercicios%20Base.ipynb)
 [Avance 1 PIA](https://github.com/MarleneCalderon/Mineria_de_Datos/upload/master)
-
-[P1 y P2, ejercicios de manipulación y visualización] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Ejercicios%20Python%20miner%C3%ADa%20de%20datos_6_003.ipynb)
+[P1 y P2, ejercicios de manipulación y visualización](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Ejercicios%20Python%20miner%C3%ADa%20de%20datos_6_003.ipynb)
