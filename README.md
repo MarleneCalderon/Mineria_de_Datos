@@ -14,4 +14,4 @@
 [P1 y P2, ejercicios de manipulación y visualización](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Ejercicios%20Python%20miner%C3%ADa%20de%20datos_6_003.ipynb )
 
 
-[Avance 2](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Avance2%20(1)%20(2)%20(1)%20(1).ipynb)
+[Avance 2](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Avance2%20(1)%20(2)%20(1)%20(1).ipynbhttps://github.com/MarleneCalderon/Mineria_de_Datos/upload/master)
