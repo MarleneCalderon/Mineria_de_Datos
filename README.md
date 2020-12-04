@@ -15,3 +15,7 @@
 
 
 [Avance 2](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Avance2%20(1)%20(2)%20(1)%20(1)%20(1)%20(1).ipynb)
+
+[Poster Equipo 6] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/PIA_6_003.pdf)
+
+[Notebook Mortalidad Infantil](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Notebook_Mortalidad_Infantil.ipynb)
